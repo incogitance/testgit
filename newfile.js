@@ -1,8 +1,3 @@
-// added this line and push with vs code...
-// last attempt failed at push trying again....
-
-// push with ubuntu bionic rsa
-//Load express module with `require` directive
 var express = require('express')
 var app = express()
 
