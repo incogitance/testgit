@@ -21,7 +21,7 @@ describe('Status and content', function() {
     describe ('About page', function() {
         it('status', function(done){
             request('http://localhost:8080/about', function(error, response, body) {
-                expect(response.statusCode).to.equal(404);
+                expect(response.statusCode).to.equal(200);
                 done();
             });
         });

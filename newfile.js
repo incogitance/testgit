@@ -10,8 +10,12 @@ var app = express()
 app.get('/', function (req, res) {
   res.send('Hello World')
 })
-
+//Define request response in About URL (/about)
 //Launch listening server on port 8080
+app.get('/about', function (req, res) {
+    res.send('Hello World, you can now see the about page!!!')
+  })
+
 app.listen(8080, function () {
   console.log('App listening on port 8080!')
 })
