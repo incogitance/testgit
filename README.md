@@ -1,4 +1,4 @@
 # testgit
 Only used to test git and become familiar
-[![GitHub stars](https://img.shields.io/github/stars/incogitance/testgit.svg?style=social&label=Star)](https://github.com/incogitance/testgit)
-//[![GitHub forks](https://img.shields.io/github/forks/SmingHub/Sming.svg?style=social&label=Fork)](https://github.com/SmingHub/Sming/network)
+[![star this repo](http://githubbadges.com/star.svg?user=incogitance&repo=testgit)](http://github.com/incogitance/testgit)
+[![fork this repo](http://githubbadges.com/fork.svg?user=incogitance&repo=testgit)](http://github.com/incogitance/testgit/fork)
